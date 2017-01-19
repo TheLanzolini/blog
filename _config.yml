@@ -7,8 +7,8 @@ title: Lanzoblog
 subtitle: Ramblings of a Web Developer and Gamer
 description: Alex Lanzoni's Personal Blog
 author: Alex Lanzoni
-language: en
-timezone: 
+language: default
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
