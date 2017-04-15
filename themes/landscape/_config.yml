@@ -2,6 +2,7 @@
 menu:
   Home: /blog/
   Archives: /blog/archives
+  About: /blog/about
 # rss: /atom.xml
 
 # Content
